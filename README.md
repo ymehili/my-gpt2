@@ -24,7 +24,7 @@ A clean, efficient implementation of the GPT-2 language model architecture in Py
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone <your-repo-url>
+git clone
 cd llm
 pip install -r requirements.txt
 ```
